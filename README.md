@@ -150,9 +150,11 @@ python build.py
 
 ## 📧 联系方式
 
-如有问题或建议，请通过GitHub Issues联系。
+- 如有问题或建议，请通过GitHub Issues联系
+- 或联系邮箱：mohrhqmat@gmail.com
 
 ---
 
 
 **⭐ 如果这个项目对你有帮助，请给个Star支持一下！**
+
